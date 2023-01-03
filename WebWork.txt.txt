@@ -1,0 +1,13 @@
+1. A protocol for dictating how data gets sent to and from servers.
+2. A URL is an address for a website or other internet rersource.
+3. DNS is a system that takes URLs and turns them into IP addresses.
+4. A query string lets you pass key value pairs into the URL.
+5. Get- retrieve data from the server. Post - send some data to a server.
+6. An HTTP request is a request for data from a client to a server which follows the HTTP protocol.
+7. An HTTP response is the data that the sever will send back that follows HTTP Prortcol.
+8. Headers provide additional information about the request or the response and some examples are Host, Accept, content-type, and set-cookie.
+9. 1. Your browser turns the URL into an IP adress using DNS.
+   2. Your browser sends a request to that IP.
+   3. The server will send back a response of soem html and headers.
+   4. The browser makes a DOm for that HTML andf finds any other resources it needs.
+   5. The browser makes different requests for each of these and displays them as they are responded with.  
